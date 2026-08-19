@@ -45,3 +45,5 @@ Este projeto documenta a estruturação e a operação de uma Central de Serviç
 Todos os quatro chamados técnicos foram triados através do Quadro Kanban, avançando pelas etapas de controle de fluxo de atendimento. 
 
 Para manter o padrão de auditoria corporativa e a integridade de relatórios de SLA, foi realizada a correção manual dos campos internos, alterando o status definitivo dos quatro itens de "Não resolvido" para **"Resolvido / Itens Concluídos"** (verde), zerando a fila com sucesso.
+
+![Painel de Chamados Resolvidos no Jira](Jira-resolvido.png)
